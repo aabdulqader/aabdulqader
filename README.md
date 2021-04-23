@@ -15,4 +15,4 @@ I pride myself on being proactive, a strong communicator, and a great team playe
 
 My working hours are very flexible. I am always available both online and offline. I generally work more than 100 hours a week and therefore wish that you will consider me the best match for your job.
 
-Thanks. 
+Thanks.
