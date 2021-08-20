@@ -1,18 +1,31 @@
-Hello!
+Greetings!
 
-I am a full-stack web developer and developing web apps using the following areas:
-Python, Javascript(ES6), MySQL, Django, Django Rest Framework, React, jquery, Redux, HTML5, CSS3, Restfull API, Sass Bootstrap, Material UI, Git.
+I am a highly motivated UI UX DESIGNER & DEVELOPER with MODERN, INNOVATIVE and CREATIVE ideas. I have more than 2+ years of experience designing  MOBILE and WEB APP.
 
-I am also familiar with the following areas: SQL, Ajax, Docker, Webpack, and Testing.
+Specializations:
+✅ UI/UX Design
+✅ Design System
+✅ IOS & Android Mobile App Design
+✅ Web Application Design
+✅ Landing Page Design
+✅ Clickable UI Prototype
+✅ Wireframing
+✅ Mockups
 
-I am passionate about software and technology. I love finding elegant solutions to difficult problems and really enjoy the act of coding. I love to program things that work in the real-world and useful for people in their business. I am professional, reliable and responsible for the work I do.
+Skills:
+✅ Figma is my Love ( Adobe XD, Adobe Photoshop)
+✅ JavaScript(ES6+), React, HTML5, CSS3, Django, Git
 
-I love to build special, unique and amazing websites from the ground up and rapidly create a prototype for you or your business. If you’ve got something existing that needs to be upgraded, I also love working with legacy systems.
 
-Factors that I always keep in mind while developing a website are responsive front end user interface, optimized back end admin interface, optimized database queries, security techniques implementation, etc.
+Tools:
+✅ Wireframing: Figma
+✅ UI Design: Figma, Adobe XD
+✅ Prototyping: Invision, Figma
+✅ Design System: Figma
 
-I pride myself on being proactive, a strong communicator, and a great team player.
+Check out my Dribble Profile: https://dribbble.com/abdul-qader
 
-My working hours are very flexible. I am always available both online and offline. I generally work more than 100 hours a week and therefore wish that you will consider me the best match for your job.
+My experience is ready to provide you solution-oriented designs. Let's create responsive, functional, result-oriented and creative pixel-perfect designs that users love to use.
 
-Thanks.
+Regards,
+Abdul Qader.
