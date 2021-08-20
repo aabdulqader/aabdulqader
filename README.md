@@ -40,9 +40,11 @@ Tools:
 ✅ Design System: Figma
 
 
-Check out my Dribble Profile: https://dribbble.com/abdul-qader
+Check out me on: 
 
-My experience is ready to provide you solution-oriented designs. Let's create responsive, functional, result-oriented and creative pixel-perfect designs that users love to use.
+Dribbble - https://dribbble.com/abdul-qader
+Behance - https://www.behance.net/abdul-qader
+Personal Website - https://abdul-qader.com
 
 Regards,
 Abdul Qader.
