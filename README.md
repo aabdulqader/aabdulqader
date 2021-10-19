@@ -11,7 +11,7 @@ I'm a designer and developer. I can build, adaptive, easy to use, user-friendly,
 ✅ MongoDB, Firebase, MySQL
 ✅ Rest-API Development
 ✅ Figma
-✅ SEO optimization;
+✅ SEO optimization
 ✅ Git / Yarn / npm
 
 I am a quick learner and love to work with the latest and most effective technologies.
@@ -22,11 +22,9 @@ I’m the one you need – a professional, hard-working, and talented individual
 Thank you for your time and consideration. Don't hesitate to contact me to discuss your project!
 
 **I'm Available For Frelance**
-
-<a href="https://www.upwork.com/freelancers/~01d2e12a0198097b23" >Hire Me - Upwork</a>
+<a href="https://www.upwork.com/freelancers/~01d2e12a0198097b23" >**Hire Me - Upwork**</a>
 
 Check out: 
-
 Personal Website - **https://abdul-qader.com**
 
 Dribbble - **https://dribbble.com/abdul-qader**
