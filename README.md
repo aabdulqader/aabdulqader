@@ -1,53 +1,36 @@
 Greetings!
 
-I am a highly motivated UI UX DESIGNER & DEVELOPER with MODERN, INNOVATIVE and CREATIVE ideas. I have more than 2+ years of experience designing  MOBILE and WEB APP.
+I'm a designer and developer. I can build, adaptive, easy to use, user-friendly, clean-coded, fast, and bugs free websites and mobile apps specialize in:
 
-Specializations:
+✅ React, Redux, React Hooks, PWA
+✅ React Native
+✅ Node.js, Express, Django
+✅ Material UI, Styled Components
+✅ Bootstrap 4/5, PixelPerfect - W3C valid, responsive
+✅ HTML5/CSS3, SASS
+✅ MongoDB, Firebase, MySQL
+✅ Rest-API Development
+✅ Figma
+✅ SEO optimization;
+✅ Git / Yarn / npm
 
-✅ UI/UX Design
+I am a quick learner and love to work with the latest and most effective technologies.
 
-✅ Design System
+Looking for a highly motivated and professional web developer whom you can trust?
+I’m the one you need – a professional, hard-working, and talented individual with an eye of detail.
 
-✅ IOS & Android Mobile App Design
+Thank you for your time and consideration. Don't hesitate to contact me to discuss your project!
 
-✅ Web Application Design
+**I'm Available For Frelance**
 
-✅ Landing Page Design
+<a href="https://www.upwork.com/freelancers/~01d2e12a0198097b23" >Hire Me - Upwork</a>
 
-✅ Clickable UI Prototype
+Check out: 
 
-✅ Wireframing
+Personal Website - **https://abdul-qader.com**
 
-✅ Mockups
+Dribbble - **https://dribbble.com/abdul-qader**
 
-
-
-Skills:
-
-✅ Figma is my Love ( Adobe XD, Adobe Photoshop)
-
-✅ JavaScript(ES6+), React, HTML5, CSS3, Django, Git
-
-
-Tools:
-
-✅ Wireframing: Figma
-
-✅ UI Design: Figma, Adobe XD
-
-✅ Prototyping: Invision, Figma
-
-✅ Design System: Figma
+Behance - **https://www.behance.net/abdul-qader**
 
 
-Check out me on: 
-
-Dribbble - https://dribbble.com/abdul-qader
-
-Behance - https://www.behance.net/abdul-qader
-
-Personal Website - https://abdul-qader.com
-
-
-Regards,
-Abdul Qader.
