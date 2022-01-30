@@ -1,52 +1,58 @@
-Greetings!
+Are You Looking for a Modern & Unique Online Presence?
 
-I'm a designer and developer. I can build, adaptive, easy to use, user-friendly, clean-coded, fast, and bugs free websites and mobile apps specialize in:
+Do you need a Webflow, Wix, or Squarespace website to PROMOTE YOUR BUSINESS, SHOWCASE YOUR WORK, start a BLOG or MEMBERSHIP WEBSITE or open your E-COMMERCE STORE / online store at AFFORDABLE PRICES with the right person and the right website builder! I am your one-stop solution.
 
-✅ React, Redux, React Hooks, PWA
+My 3+ years of experience is ready to create a Professional, Responsive, Easy-to-use, Modern & Unique Webflow, Wix or Squarespace website for your business.
 
-✅ React Native
 
-✅ Node.js, Express, Django
+FEATURES I OFFERING:
 
-✅ Material UI, Styled Components
+➡️ Wix website design
+➡️ Webflow Development
+➡️ Webflow website design
+➡️ Squarespace Website design
+➡️ SEO & Speed Optimization
+➡️ Update / Fix Current Website
+➡️ Fully Functional CMS Collections
+➡️ Fully Functional E-commerce Set Up
+➡️ Live Filtering, Multi-Reference Fields Etc.
+➡️ Figma To Webflow, PSD To Webflow, Adobe XD To Webflow
+➡️ Zapier, Airtable, Memberstack, Mailchimp ( For Webflow Website )
+➡️ Visual Features Like Animations, Popups, Parallax, Lottie Animations
+➡️ 100% Responsive (Mobile Friendly) Website As Per Your Requirements
+➡️ Design / Redesign Webflow Website | Squarespace Website | Wix Website
+➡️ Forms, Newsletter, Recaptcha, Maps, Cookies, Google Analytics, Facebook Pixel, Social Media Integrations Etc.
+➡️ Custome HTML/CSS/JS Code (Dynamic CMS Filtering, Search, Load More Button Etc.) And Jquery Plugins.
 
-✅ Bootstrap 4/5, PixelPerfect - W3C valid, responsive
 
-✅ HTML5/CSS3, SASS
+EXPERTISE I HAVE:
 
-✅ MongoDB, Firebase, MySQL
+➡️ Figma
+➡️ Webflow, Squarespace, Wix, Editor X
+➡️ React.js, Node.js, JS(ES6+), HTML5, CSS3, Bootstrap 5, Material UI, Github
 
-✅ Rest-API Development
 
-✅ Figma
+WHY CHOOSE ME:
 
-✅ SEO optimization
+➡️ Quick Response
+➡️ On-Time Delivery
+➡️ Daily Updates Of Your Projects
+➡️ Genuine & Professional Experience
+➡️ Great Communication & 24/7 Support
+➡️ Unlimited revisions until your 100% satisfaction
+➡️ Fluent on Webflow website Development, Wix Website, Squarespace Website
 
-✅ Git / Yarn / npm
 
-I am a quick learner and love to work with the latest and most effective technologies.
+HAVE EXPERIENCE IN THE FOLLOWING:
 
-Looking for a highly motivated and professional web developer whom you can trust?
-I’m the one you need – a professional, hard-working, and talented individual with an eye of detail.
+➡️ Blogs websites
+➡️ Membership Websites
+➡️ Landing Page websites
+➡️ Business (Services) Websites
+➡️ E-Commerce websites (Online Store)
+➡️ Digital Courses/ Online Learning websites
 
-Thank you for your time and consideration. Don't hesitate to contact me to discuss your project!
 
-**I'm Available For Frelance**
-<a href="https://www.upwork.com/freelancers/~01d2e12a0198097b23" >**Hire Me - Upwork**</a> 
+As CLIENT SATISFACTION is my first priority, I can guarantee you that if you work with me once, you will always work with me on these kinds of projects.
 
-Check out: 
-Personal Website - **https://abdul-qader.com**
-
-Dribbble - **https://dribbble.com/abdul-qader**
-
-Behance - **https://www.behance.net/abdul-qader**
-
-**MetaCodes Hub:**
-
-MetaCodes Hub is a blog and element gallery for Web and Mobile designers and developers. We provide Design Elements, Code Snippets for BOOTSTRAP, HTML, CSS, JS, REACT.JS, NODE.JS, FIGMA etc.
-
-Get Your Free Source Codes: **https://www.metacodeshub.com/**
-
-Youtube Channel: 
-
-https://www.youtube.com/channel/UCu-sNrFNp25OM5Lr_fCjO4A
+Feel free to contact me to discuss your project. I can't wait to hear from you!
