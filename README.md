@@ -6,6 +6,8 @@ My 3+ years of experience is ready to create a Professional, Responsive, Easy-to
 
 
 
+
+
 **FEATURES I OFFERING:
 **
 
@@ -43,6 +45,8 @@ My 3+ years of experience is ready to create a Professional, Responsive, Easy-to
 
 
 
+
+
 **EXPERTISE I HAVE:**
 
 
@@ -51,6 +55,8 @@ My 3+ years of experience is ready to create a Professional, Responsive, Easy-to
 ➡️ Webflow, Squarespace, Wix, Editor X
 
 ➡️ React.js, Node.js, JS(ES6+), HTML5, CSS3, Bootstrap 5, Material UI, Github
+
+
 
 
 
@@ -70,6 +76,8 @@ My 3+ years of experience is ready to create a Professional, Responsive, Easy-to
 ➡️ Unlimited revisions until your 100% satisfaction
 
 ➡️ Fluent on Webflow website Development, Wix Website, Squarespace Website
+
+
 
 
 
